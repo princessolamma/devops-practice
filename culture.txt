@@ -1,1 +1,2 @@
 Devops culture means teamwork and automation
+Automation reduces manual work
