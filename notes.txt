@@ -1,2 +1,5 @@
 This is my first DevOps Git practice
 Learning Git day 2
+THIS IS A MISTAKE
+Learning Git step by step
+Practicing Git commts again
